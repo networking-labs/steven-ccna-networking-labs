@@ -1,6 +1,6 @@
 Introduction to Networking & Cisco Packet Tracer
 
-Course Overview
+Overview
 - Focuses on understanding devices, networks, and practical exercises using Cisco Packet Tracer.
 
 What I Learned
