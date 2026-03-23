@@ -1,9 +1,9 @@
 # Introduction to Networking & Cisco Packet Tracer
 
-Overview
+## Overview
 - Focuses on understanding devices, networks, and practical exercises using Cisco Packet Tracer.
 
-What I Learned
+## What I Learned
 1. **What is a Network**: A computer network is a digital telecommunications network that allows nodes to share resources.
 2. **Building a Network**: Overview of connecting clients and servers.
 3. **Clients**: Devices like PCs, laptops, and phones that request services.
@@ -14,9 +14,9 @@ What I Learned
 8. **Cisco Packet Tracer**: Introduction to the simulation tool.
 9. **Downloading Packet Tracer**: Instructions and links to download for practice.
 
-Next Steps
+## Next Steps
 - Install Cisco Packet Tracer
 - Start exploring basic network simulations
 
-Cisco Packet Tracer Download Links
+## Cisco Packet Tracer Download Links
 - [Cisco Packet Tracer Official Download] https://www.netacad.com/resources/lab-downloads?courseLang=en-US 
